@@ -11,7 +11,8 @@ As an inspired coder that never stop on exploring and learning new technologies.
 
 ## Speedrun Record
 
-| Date | Topic | Link | Rate |
-|-|-|-|-|
+| Date | Topic | Techstack | Link | Rate |
+|-|-|-|-|-|
+|22/12/2020|Controller-Service-Repo Architecture|Nodejs||1|
 ||[Docker: Postgresql for easy deployment](https://colorlib.com/wp/wp-content/uploads/sites/2/404-error-page-templates.jpg)|||
 ||[Nodejs: CRUD template for Postgresql](https://colorlib.com/wp/wp-content/uploads/sites/2/404-error-page-templates.jpg)|||

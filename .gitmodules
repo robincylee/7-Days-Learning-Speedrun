@@ -1,0 +1,3 @@
+[submodule "Nodejs-architecture-controller-service-repo"]
+	path = Nodejs-architecture-controller-service-repo
+	url = ./Nodejs-architecture-controller-service-repo

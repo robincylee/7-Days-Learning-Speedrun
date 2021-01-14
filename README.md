@@ -13,6 +13,7 @@ As an inspired coder that never stop on exploring and learning new technologies.
 
 | Date | Topic | Techstack | Day |
 |-|-|-|-|
+||[Adopting BluebirdJs for better efficiency](https://colorlib.com/wp/wp-content/uploads/sites/2/404-error-page-templates.jpg)|Js Promise|-|
 ||[Postgresql CRUD using Sequelize](https://colorlib.com/wp/wp-content/uploads/sites/2/404-error-page-templates.jpg)|Nodejs,Sequelize||
 ||[Understanding Bcrypt]()|Js||
 |22/12/2020|[Controller-Service-Repo Architecture](https://github.com/robincylee/learn-nodejs-CSR)|Nodejs|1|
